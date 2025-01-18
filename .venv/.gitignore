@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Excepciones
+!.gitignore
+!.env
+!*.py
+!app.py
+!nb_model.bin
+!scaler.pkl
